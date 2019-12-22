@@ -4,7 +4,6 @@ end
 
 def create_an_array
  basketball_players = ["Kobe Bryant", "Lebron James", "James Harden", "Michael Jordan"]
-end
 
 def add_element_to_end_of_array
   basketball_players << "Ben Simmons"
