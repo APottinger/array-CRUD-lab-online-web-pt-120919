@@ -1,5 +1,5 @@
 def create_an_empty_array
-  basketball_players[]
+ []
 end
 
 def create_an_array
